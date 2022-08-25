@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { Header, Main, Footer } from './contect'
+import { Header, Main, Footer } from './page'
 import './App.scss';
 function App() {
     return (
